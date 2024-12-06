@@ -1,0 +1,11 @@
+{
+  "/_not-found": "/_not-found",
+  "/page": "/",
+  "/redirect/page": "/redirect",
+  "/dashboard/page": "/dashboard",
+  "/invite/[code]/page": "/invite/[code]",
+  "/api/auth/[...nextauth]/route": "/api/auth/[...nextauth]",
+  "/dashboard/settings/page": "/dashboard/settings",
+  "/dashboard/invalid/page": "/dashboard/invalid",
+  "/dashboard/trip/[id]/page": "/dashboard/trip/[id]"
+}

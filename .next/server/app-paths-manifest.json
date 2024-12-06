@@ -1,0 +1,11 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/page": "app/page.js",
+  "/redirect/page": "app/redirect/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/invite/[code]/page": "app/invite/[code]/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/dashboard/settings/page": "app/dashboard/settings/page.js",
+  "/dashboard/invalid/page": "app/dashboard/invalid/page.js",
+  "/dashboard/trip/[id]/page": "app/dashboard/trip/[id]/page.js"
+}
